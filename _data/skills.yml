@@ -14,16 +14,21 @@
   progress: 80%
 
 - title: CI/CD tools
-  desc: jenkins
+  desc: Working knowledge on continious integration and continious deployment 
   tools: jenkins
-  progress: 55%
+  progress: 80%
 
-- title: HTML5 And CSS3
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  tools: html
-  progress: 88% 
+- title: Security tools
+  desc: Security tools that required for infrastructrre guarding.
+  tools: Trend, Splunk, vault, squid, consul
+  progress: 80% 
 
-- title: Adobe Illustrator
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  tools: adobe
-  progress: 20%
+- title: Container
+  desc: Working knowledge on container technology
+  tools: Kubernetes
+  progress: 60%
+
+- title: Ticketing Tools
+  desc: Working knowledge on Ticketing Tools
+  tools: Jira, SNOW, assyst
+  progress: 80%
