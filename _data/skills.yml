@@ -1,10 +1,10 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+- title: AWS
+  desc: working knowledge on AWS services
+  progress: 90%
 
-- title: Web Design
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
+- title: DevOps knowledge
+  desc: working knowledge on DevOps tools
+  progress: 80% 
 
 - title: Back-End Development
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
