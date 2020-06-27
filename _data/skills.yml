@@ -1,16 +1,21 @@
 - title: AWS
   desc: Working knowledge on AWS services
-  tools: aws
+  tools: AWS
   progress: 90%
 
 - title: Infrastructre orchestration tools
   desc: working knowledge on infrastructure orchestrate tools like hashicorp terraform and cloudformation
-  tools: terraform,cloudformation
+  tools: Terraform,Cloudformation
   progress: 80% 
 
 - title: configuration management
   desc: Config management tools like puppet,ansible and chef
-  tools: puppet,ansible
+  tools: Puppet,Ansible
+  progress: 80%
+
+- title: Scripting
+  desc: Scripting knowledge
+  tools: Python (boto 3), Shell, PowerShell, groovy
   progress: 80%
 
 - title: CI/CD tools
@@ -31,4 +36,14 @@
 - title: Ticketing Tools
   desc: Working knowledge on Ticketing Tools
   tools: Jira, SNOW, assyst
+  progress: 80%
+
+- title: SCM ( Source code management)
+  desc: Working knowledge on SCM tools 
+  tools: GitHub, Bitbucket
+  progress: 80%
+
+- title: OS
+  desc: Working knowledge on OS
+  tools: Windows & Linux
   progress: 80%
