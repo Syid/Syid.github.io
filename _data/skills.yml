@@ -1,29 +1,29 @@
 - title: AWS
   desc: Working knowledge on AWS services
-  tool: aws
+  tools: aws
   progress: 90%
 
 - title: Infrastructre orchestration tools
   desc: working knowledge on infrastructure orchestrate tools like hashicorp terraform and cloudformation
-  tool: terraform,cloudformation
+  tools: terraform,cloudformation
   progress: 80% 
 
 - title: configuration management
   desc: Config management tools like puppet,ansible and chef
-  tool: puppet,ansible
+  tools: puppet,ansible
   progress: 80%
 
 - title: CI/CD tools
   desc: jenkins
-  tool: jenkins
+  tools: jenkins
   progress: 55%
 
 - title: HTML5 And CSS3
   desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  tool: html
+  tools: html
   progress: 88% 
 
 - title: Adobe Illustrator
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  tool: adobe
+  tools: adobe
   progress: 20%
