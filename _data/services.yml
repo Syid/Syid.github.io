@@ -1,23 +1,15 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
+- title: Jenkins-Bitbucket Integration
+  desc: Jenkins-Bitbucket Integration to merge the Code to master -once the developer Pull-request the code, automatic trigger build will happen in Jenkins and once the build status succeed sends notification to Bitbucket to merge the code to master
   icon: assets/images/services-icon-brush.png
 
-- title: Javascript
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
+- title: Twilio Integration
+  desc: Voice call support to teams, once alarm imitated lambda function will send the alarm to S3 where AWS Polly convert it to speech and twilo makes a call to the respective support member and sends the data to S3 once the call answered.
   icon: assets/images/services-icon-java.png
   
-- title: HTML5 And CSS3
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
+- title: Terraform Compliance
+  desc: Open policy agent use cases for terraform compliance (blast radius check)
   icon: assets/images/services-icon-coding.png
 
-- title: Web design
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
+- title: Terraform unit testing
+  desc: - conftest - Tests against structured configuration data using the Open Policy Agent Rego query language
   icon: assets/images/services-icon-layer.png
-
-- title: Back-end Development
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-mouse.png
-
-- title: Adobe illustrator
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-pen.png
