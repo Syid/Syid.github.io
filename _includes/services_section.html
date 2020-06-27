@@ -1,18 +1,18 @@
-<!-- Start Services  -->
-<section class="full-page clearfix" id="services">
-    <div class="services">
+<!-- Start Skills  -->
+<section class="full-page pt-30 clearfix" id="automation">
+    <div class="automation">
         <div class="container-fluid">
             <div class="skills-wrapper text-center">
                 <div class="section-title">
-                    <h2>Highlighted Automation</h2>
+                    <h2>Highlighted automation</h2>
                     <div class="border-center"></div>
                 </div>
                 <div class="row">
-                    {% for services_data in site.data.services  %}
+                    {% for automation_data in site.data.automation  %}
                     <div class="col-lg-4 col-md-6">
                         <div class="skills-box wow fadeIn text-center">
-                            <h5>{{services_data.title}}</h5>
-                            <p>{{services_data.desc}}</p>
+                            <h5>{{automation_data.title}}</h5>
+                            <p>{{automation_data.desc}}</p>
                         </div>
                     </div>
                     {% endfor %}
@@ -21,4 +21,4 @@
         </div>
     </div>
 </section>
-<!-- End Services -->
+<!-- End Skills -->
