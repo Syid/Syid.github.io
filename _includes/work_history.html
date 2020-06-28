@@ -2,9 +2,8 @@
    {% for work_info in site.data.work_history %}
     <div class="col-md-4 col-sm-12">
         <div class="work-history-wrapper wow fadeIn">
-            <div class="work-history-img">
-                <a href="{{work_info.url}}"><img src="{{site.baseurl}}/{{work_info.logo}}" alt="{{work_info.url}}"/></a>
-            </div>
+            <h5>{{work_info.title}}</h5>
+            <h3>{{work_info.subtitile}}</h3>
             <span>{{work_info.year}}</span>
             <p>{{work_info.desc}}</p>
         </div>
