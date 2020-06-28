@@ -1,49 +1,14 @@
-- title: Cloud providers
-  desc: Working knowledge on cloud providers
-  tools: AWS
-  progress: 90%
+- title: PR Automation ( Jenkins-Bitbucket Integration)
+  desc: Jenkins-Bitbucket Integration to merge the Code to master -once the developer Pull-request the code, automatic trigger build will happen in Jenkins and once the build status succeed sends notification to Bitbucket to merge the code to master
 
-- title: Infrastructre orchestration tools
-  desc: working knowledge on infrastructure orchestrate tools like hashicorp terraform and cloudformation
-  tools: Terraform,Cloudformation
-  progress: 80% 
+- title: Twilio Integration for critical alarms
+  desc: Voice call support to teams, once alarm imitated lambda function will send the alarm to S3 where AWS Polly convert it to speech and twilo makes a call to the respective support member and sends the data to S3 once the call answered
 
-- title: configuration management
-  desc: Config management tools like puppet,ansible and chef
-  tools: Puppet,Ansible
-  progress: 80%
+- title: Terraform Blast Radius
+  desc: Open policy agent use cases for terraform compliance (blast radius check)
 
-- title: Scripting
-  desc: Scripting knowledge
-  tools: Python (boto 3), Shell, PowerShell, groovy
-  progress: 80%
+- title: Terraform Compliance
+  desc: Conftest - Tests against structured configuration data using the Open Policy Agent Rego querylanguage
 
-- title: CI/CD tools
-  desc: Working knowledge on continious integration and continious deployment 
-  tools: jenkins
-  progress: 80%
-
-- title: Security tools
-  desc: Security tools that required for infrastructrre guarding.
-  tools: Trend, Splunk, vault, squid, consul
-  progress: 80% 
-
-- title: Container
-  desc: Working knowledge on container technology
-  tools: Kubernetes
-  progress: 60%
-
-- title: Ticketing Tools
-  desc: Working knowledge on Ticketing Tools
-  tools: Jira, SNOW, assyst
-  progress: 80%
-
-- title: SCM ( Source code management)
-  desc: Working knowledge on SCM tools 
-  tools: GitHub, Bitbucket
-  progress: 80%
-
-- title: OS
-  desc: Working knowledge on OS
-  tools: Windows & Linux
-  progress: 80%
+- title: Zero DownTime Deployments
+  desc: Blue/green & Canary deployments
