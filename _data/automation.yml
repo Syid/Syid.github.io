@@ -12,3 +12,6 @@
 
 - title: Zero DownTime Deployments
   desc: Blue/green & Canary deployments
+
+- title: Apache Kafka Monitoring
+  desc: AWS EKS deployed Apacje kafka monitoring via prometheus and grafana and alert management via cloudwatch prometheus agent
